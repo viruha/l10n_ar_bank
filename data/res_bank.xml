@@ -9,7 +9,7 @@
             <field name='street'>Victoria Ocampo 360</field>
             <field name='street2'>piso pb</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4320-0600</field>
             <field name='fax'>011-4322-0603</field>
@@ -24,7 +24,7 @@
             <field name='street2'></field>
             <field name='zip'>C1061AAA</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4310-3000</field>
             <field name='fax'>011-4315-9922</field>
@@ -39,7 +39,7 @@
             <field name='street2'>piso 8a</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4347-1010</field>
             <field name='fax'>011-4347-1020</field>
@@ -54,7 +54,7 @@
             <field name='street2'></field>
             <field name='zip'>C1106ABG</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4319-8400</field>
             <field name='fax'>011-4319-8230</field>
@@ -69,7 +69,7 @@
             <field name='street2'></field>
             <field name='zip'>C1002ABK</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>01-4114-6111</field>
             <field name='fax'>01-4114-6199</field>
@@ -99,7 +99,7 @@
             <field name='street2'></field>
             <field name='zip'>C1106BKD</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4318-6800</field>
             <field name='fax'>011-4318-6844</field>
@@ -114,7 +114,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-43490300</field>
             <field name='email'>info@columbia.com.ar</field>
@@ -128,7 +128,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4328-5555</field>
             <field name='fax'>011-4328-9068</field>
@@ -143,7 +143,7 @@
             <field name='street2'></field>
             <field name='zip'>C1003ABJ</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4320-5000</field>
             <field name='fax'>011-4320-5257</field>
@@ -187,7 +187,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-6329-0000</field>
             <field name='fax'>011-4329-6100</field>
@@ -202,7 +202,7 @@
             <field name='street2'></field>
             <field name='zip'>C1002ABL</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4313-9546</field>
             <field name='fax'>011-4311-5596</field>
@@ -217,7 +217,7 @@
             <field name='street2'></field>
             <field name='zip'>C1005AAH</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4329-8600</field>
             <field name='fax'>011-4329-8700</field>
@@ -232,7 +232,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4347-6000</field>
             <field name='fax'>011-4342-2991</field>
@@ -290,7 +290,7 @@
             <field name='street2'></field>
             <field name='zip'>C1035ABC</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4132-2000</field>
             <field name='fax'>011-4132-2092</field>
@@ -365,7 +365,7 @@
             <field name='street2'>piso 3</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-5235-2300</field>
             <field name='fax'>011-5235-2305</field>
@@ -380,7 +380,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAH</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4323-6900</field>
             <field name='fax'>011-4334-1731</field>
@@ -440,7 +440,7 @@
             <field name='street2'>piso 2</field>
             <field name='zip'>C1004AAG</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>-4000-2700</field>
             <field name='fax'>-4000-2770</field>
@@ -455,7 +455,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAN</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-43243400</field>
             <field name='fax'>011-43224687</field>
@@ -470,7 +470,7 @@
             <field name='street2'></field>
             <field name='zip'>C1003ABC</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4347-5000</field>
             <field name='email'>info@hipotecario.com.ar</field>
@@ -484,7 +484,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAL</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-5238-0200</field>
             <field name='email'>info@bancoindustrial.com.ar</field>
@@ -498,7 +498,7 @@
             <field name='street2'>piso 19</field>
             <field name='zip'>C1010AAP</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='email'>consultasysugerenciasclientes@itau.com.ar</field>
 	    <field name='update'>2012-08-18</field>
@@ -526,7 +526,7 @@
             <field name='street2'>piso 7</field>
             <field name='zip'>C1041AAI</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-5222-6500</field>
             <field name='email'>serviciosalcliente@macro.com.ar</field>
@@ -540,7 +540,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAJ</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4321-2200</field>
             <field name='fax'>011-4321-2222</field>
@@ -570,7 +570,7 @@
             <field name='street2'></field>
             <field name='zip'>C1005AAD</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4130-8500</field>
             <field name='email'>info@bancomeridian.com</field>
@@ -599,7 +599,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4132-6300</field>
             <field name='fax'>011-4331-2793</field>
@@ -614,7 +614,7 @@
             <field name='street2'></field>
             <field name='zip'>C1004AAG</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4394-2463</field>
             <field name='fax'>011-4325-4942</field>
@@ -629,7 +629,7 @@
             <field name='street2'>piso pb</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4318-7300</field>
             <field name='fax'>011-4318-7301</field>
@@ -704,7 +704,7 @@
             <field name='street2'></field>
             <field name='zip'>C1035ABA</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4342-6969</field>
             <field name='fax'>011-4331-2214</field>
@@ -734,7 +734,7 @@
             <field name='street2'></field>
             <field name='zip'>C1003ABH</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4324-8000</field>
             <field name='fax'>011-4324-8080</field>
@@ -749,7 +749,7 @@
             <field name='street2'>piso 10</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4317-3500</field>
             <field name='email'>alberto.filippini@bankofamerica.com</field>
@@ -763,7 +763,7 @@
             <field name='street2'></field>
             <field name='zip'>C1003ABC</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4346-4000</field>
             <field name='email'>mensajes@bancofrances.com.ar</field>
@@ -777,7 +777,7 @@
             <field name='street2'>piso 26</field>
             <field name='zip'>C1106ABG</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4318-0318</field>
             <field name='email'>info@bnpparibas.com.ar</field>
@@ -806,7 +806,7 @@
             <field name='street2'></field>
             <field name='zip'>C1002ABL</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-5252-0100</field>
             <field name='email'>correo@lacapitaldelplata.com.ar</field>
@@ -820,7 +820,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4329-1000</field>
 	    <field name='update'>2012-08-18</field>
@@ -833,7 +833,7 @@
             <field name='street2'></field>
             <field name='zip'>C1005AAF</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4348-9999</field>
             <field name='email'>sac@cfa.com.ar</field>
@@ -847,7 +847,7 @@
             <field name='street2'></field>
             <field name='zip'>C1049AAA</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4590-2800</field>
             <field name='fax'>011-4590-2882</field>
@@ -862,7 +862,7 @@
             <field name='street2'></field>
             <field name='zip'>C1064AAL</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>01-4344-5700</field>
             <field name='fax'>01-4344-5874</field>
@@ -892,7 +892,7 @@
             <field name='street2'>piso 11</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4104-9600</field>
             <field name='email'>gemoney_ar@ge.com</field>
@@ -906,7 +906,7 @@
             <field name='street2'></field>
             <field name='zip'>C1408BRR</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>01-4317-1900</field>
             <field name='fax'>01-4317-1931</field>
@@ -921,7 +921,7 @@
             <field name='street2'></field>
             <field name='zip'>C1005AAE</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4320-2800</field>
             <field name='fax'>011-4324-3988</field>
@@ -951,7 +951,7 @@
             <field name='street2'>piso 23</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4325-8046</field>
             <field name='fax'>011-4348-7254</field>
@@ -966,7 +966,7 @@
             <field name='street2'>piso 1</field>
             <field name='zip'>C1107AAD</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4319-5800</field>
             <field name='fax'>011-4312-6460</field>
@@ -981,7 +981,7 @@
             <field name='street2'></field>
             <field name='zip'>C1107CII</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>-4808-8900</field>
             <field name='fax'>-4808-8977</field>
@@ -996,7 +996,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAH</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-5554-5800</field>
             <field name='fax'>011-5554-5802</field>
@@ -1026,7 +1026,7 @@
             <field name='street2'></field>
             <field name='zip'>C1041AAJ</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4393-3953</field>
             <field name='fax'>011-4394-1244</field>
@@ -1101,7 +1101,7 @@
             <field name='street2'>piso 3</field>
             <field name='zip'>C1041AAP</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4131-6313</field>
             <field name='fax'>011-4131-6301</field>
@@ -1115,7 +1115,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Esc. Primaria p/Adultos Nro 16 Fray Justo Santa María de Oro - Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4779-6068</field>
             <field name='fax'>011-4778-2337</field>
@@ -1129,7 +1129,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Esc. Primaria p/Adultos Nro 16 Fray Justo Santa María de Oro - Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4779-6065</field>
             <field name='fax'>011-4779-6072</field>
@@ -1143,7 +1143,7 @@
             <field name='street2'></field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-48202000</field>
             <field name='email'>lavozdelcliente@standardbank.com.ar</field>
@@ -1157,7 +1157,7 @@
             <field name='street2'>piso 2</field>
             <field name='zip'></field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4348-2000</field>
             <field name='fax'>011-4348-2051</field>
@@ -1172,7 +1172,7 @@
             <field name='street2'></field>
             <field name='zip'>C1091AAQ</field>
             <field name='city'>Buenos Aires</field>
-            <field name='state' ref='l10n_ar_states.C'/>
+            <field name='state' ref='l10n_ar_states.CABA'/>
             <field name='country' ref='base.ar'/>
             <field name='phone'>011-4341-7900</field>
             <field name='fax'>011-4341-7966</field>
